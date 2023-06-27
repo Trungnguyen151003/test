@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 int main()
 {
-    int n;
+    int n = 3;
     int a=1;
     int b=2;
 
